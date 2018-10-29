@@ -31,11 +31,11 @@ https://www.nulled.to/              | forum      | n       |
 https://www.olux.to/                | shop       |         |                                                       
 http://lk53n4i4q4b34xnm.onion       |            |         |                                                       
 https://raidforums.com              |            |         |                                                       
-http://malvult.net                  | forum      | semi    | no account for premium vult                           
+http://malvult.net                  | forum      | semi    |           
 https://xakfor.net                  |            |         |                                                       
 http://145.249.105.19/              |            |         |                                                       
 http://888-tools.com/               |            |         |                                                       
 http://darknet.so                   |            |         |                                                       
 http://www.dedseec.com/             |            |         |                                                       
-http://rutorzzmfflzllk5.onion/?ad=1 | Forum      | n       | will get an account soon                              
+http://rutorzzmfflzllk5.onion/?ad=1 | Forum      | n       |                              
 http://verified2ebdpvms.onion       | Forum      | y       | premium marketplace in ENG and RU paid only           

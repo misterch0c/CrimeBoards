@@ -38,4 +38,6 @@ http://888-tools.com/               |            |         |
 http://darknet.so                   |            |         |                                                       
 http://www.dedseec.com/             |            |         |                                                       
 http://rutorzzmfflzllk5.onion/?ad=1 | Forum      | n       |                              
-http://verified2ebdpvms.onion       | Forum      | y       | premium marketplace in ENG and RU paid only           
+http://verified2ebdpvms.onion       | Forum      | y       | premium marketplace in ENG and RU paid only      
+http://horux.ng/                    | Forum      | y       |
+http://moneyteam.cc/                | Forum      | n       | carding

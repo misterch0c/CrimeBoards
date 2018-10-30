@@ -19,7 +19,7 @@ https://blackbiz.club/              | Forum/Shop |         |
 https://6digit.al/login             |            |         | dead?                                                 
 http://c2bit.ru                     |            |         | RU                                                      
 https://cryp70n1c.army/darkside/    | Forum      | n       |                                                       
-https://approved.xxx/               | Shop       |         |                                                       
+https://approved.xxx/               | Shop       | n       | Carding, accounts...                                                       
 http://cop.su                       | Forum/Shop |         | RU                                                    
 http://crdShop.ru/                  | Forum/Shop |         | RU                                                    
 https://demonForums.net             | Forum      |         |                                                       
@@ -42,3 +42,4 @@ http://verified2ebdpvms.onion       | Forum      | y       | premium marketplace
 http://horux.ng/                    | Forum      | y       |
 http://moneyteam.cc/                | Forum      | n       | carding
 https://darkmoney.vc/               | Forum      | n       | RU  
+http://skimme.rs                    | shop       | n       | Skimming shop

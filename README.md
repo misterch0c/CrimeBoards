@@ -1,6 +1,5 @@
 URL                                 | Type       | Private | Notes                                                  
 ------------------------------------|------------|---------|-------------------------------------------------------
-https://ax0nes.com/login/           | Forum      | y       | DarkcoderSC Forum. Will have a challenge to enter soon
 https://Forum.exploit.in            | Forum      | y       | RU                                                    
 https://mal4all.com                 | Forum      | Semi    | Reversing malware Forum                               
 https://hiddenhand.club/login       | Forum      | y       | carding                                               

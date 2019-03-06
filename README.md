@@ -1,7 +1,7 @@
 URL                                 | Type       | Private | Notes                                                  
 ------------------------------------|------------|---------|-------------------------------------------------------
 https://Forum.exploit.in            | Forum      | y       | RU                                                    
-https://mal4all.com                 | Forum      | Semi    | Reversing malware Forum                               
+https://lolzteam.net/               | Forum      | n       | RU                             
 https://hiddenhand.club/login       | Forum      | y       | carding                                               
 https://cih.ms/join/apps.php        | Forum      | y       | RU
 https://darkwebs.ws/                | Forum      | n       | RU
@@ -34,8 +34,7 @@ https://www.olux.to/                | Shop       |         |
 http://lk53n4i4q4b34xnm.onion       |            |         | dead?                                                       
 https://raidForums.com              | Forum      | n       |                                                       
 http://malvult.net                  | Forum      | Semi    |           
-https://xakfor.net                  | Forum      |         | RU                                                      
-http://145.249.105.19/              |            |         | dead?                                                      
+https://xakfor.net                  | Forum      |         | RU                                 
 http://888-tools.com/               | Shop       | n       |                                                       
 http://darknet.so                   | Forum      | n       | RU                                                      
 http://www.dedseec.com/             | Blog       | n       | Hindi                                                      

@@ -3,7 +3,9 @@ URL                                 | Type       | Private | Notes
 https://Forum.exploit.in            | Forum      | y       | RU                                                    
 https://mal4all.com                 | Forum      | Semi    | Reversing malware Forum                               
 https://hiddenhand.club/login       | Forum      | y       | carding                                               
-https://cih.ms/join/apps.php        | Forum      | y       | RU                                                    
+https://cih.ms/join/apps.php        | Forum      | y       | RU
+https://darkwebs.ws/                | Forum      | n       | RU
+https://opencard.pw/                | Forum      | n       | RU   
 https://indetectables.net/f         | Forum      | n       | Spanish                                               
 http://darkode.su                   | Forum      | y       |                                                       
 https://vlmi.su/                    | Forum      | n       |                                                       

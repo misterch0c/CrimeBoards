@@ -5,6 +5,7 @@ https://mal4all.com                 | Forum      | Semi    | Reversing malware F
 https://hiddenhand.club/login       | Forum      | y       | carding                                               
 https://cih.ms/join/apps.php        | Forum      | y       | RU
 https://darkwebs.ws/                | Forum      | n       | RU
+https://bhf.io                      | Forum      | n       | RU
 https://opencard.pw/                | Forum      | n       | RU   
 https://indetectables.net/f         | Forum      | n       | Spanish                                               
 http://darkode.su                   | Forum      | y       |                                                       
